@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Abi.net.props" />
+</Project>
