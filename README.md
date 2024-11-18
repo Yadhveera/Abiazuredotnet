@@ -1,1 +1,1 @@
-hi
+[![Build Status](https://dev.azure.com/mail2sreevasan/exampledotnet/_apis/build/status%2FYadhveera.Abiazuredotnet?branchName=main)](https://dev.azure.com/mail2sreevasan/exampledotnet/_build/latest?definitionId=21&branchName=main)
